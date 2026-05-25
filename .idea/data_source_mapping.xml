@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/idusw/javaweb/sba2/controller/MemberController.java" value="d8c38325-1e1f-49e8-9c8e-30518436a84d" />
+    <file url="file://$PROJECT_DIR$/src/main/java/idusw/javaweb/sba2/controller/WorldController.java" value="d8c38325-1e1f-49e8-9c8e-30518436a84d" />
+    <file url="file://$PROJECT_DIR$/src/main/java/idusw/javaweb/sba2/entity/sba2.sql" value="d8c38325-1e1f-49e8-9c8e-30518436a84d" />
+    <file url="file://$PROJECT_DIR$/src/main/java/idusw/javaweb/sba2/repository/MemberDAOImpl.java" value="d8c38325-1e1f-49e8-9c8e-30518436a84d" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d8c38325-1e1f-49e8-9c8e-30518436a84d/console.sql" value="d8c38325-1e1f-49e8-9c8e-30518436a84d" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d8c38325-1e1f-49e8-9c8e-30518436a84d/console_1.sql" value="d8c38325-1e1f-49e8-9c8e-30518436a84d" />
+  </component>
+</project>
