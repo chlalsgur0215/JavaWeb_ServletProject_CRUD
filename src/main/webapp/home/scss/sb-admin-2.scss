@@ -1,0 +1,20 @@
+// Import Custom EGY Admin Variables (Overrides Default Bootstrap Variables)
+@import "variables";
+
+// Import Bootstrap
+@import "../vendor/bootstrap/scss/bootstrap";
+
+// Import Custom EGY Admin Mixins and Components
+@import "mixins";
+@import "global";
+@import "utilities";
+
+// Custom Components
+@import "dropdowns";
+@import "navs";
+@import "buttons";
+@import "cards";
+@import "charts";
+@import "login";
+@import "error";
+@import "footer";
